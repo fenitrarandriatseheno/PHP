@@ -1,0 +1,79 @@
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-top: 8%;
+    margin-left: 6%;
+    position: absolute;
+    border-radius: 3px;
+    background-color: white;
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-radius: 5px;
+    position: relative;
+}
+
+thead,#ligne{
+    color: white;
+    background-color: rgb(63, 82, 252);
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+h1{
+    font-size: 40px;
+    box-shadow: 3px 3px 15px black;
+    padding-left: 18%;
+    padding-right: 18%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 0.4%;
+    margin-top: 0%;
+    background-color: rgb(104, 179, 250);
+    position: absolute;
+    color: white;
+}
+
+.image3{
+    margin-left: 1%;
+    margin-top: -0.5%;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+
+#recette_total{
+    position: absolute;
+    margin-top: 19%;
+    padding-left: -6%;
+    background-color: white;
+}
+
+#recette{
+    position: absolute;
+    font-size: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 22%;
+    padding-right: 26%;
+    margin-left: -13px;
+    padding-bottom: 5%;
+    padding-top: 3%;
+    margin-top: -7px;
+}
+
+fieldset{
+    position: absolute;
+    padding-right: 14%;
+    padding-bottom: 5%;
+    margin-top: 8%;
+    margin-left: 1100px;
+    background-color: white;
+}
+

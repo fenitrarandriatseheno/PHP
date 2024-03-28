@@ -1,0 +1,140 @@
+fieldset{
+    padding-right: 20%;
+    position: absolute;
+    padding-bottom: 38.9%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    margin-left: -1%;
+    margin-top: -0.7%;
+    position: fixed;
+    background-image: url(images/Acceuil.png);
+    background-repeat: no-repeat;
+    box-shadow: 5px 5px 10px black;
+}
+
+h3{
+    position: absolute;
+    font-size: 40px;
+    font-style: oblique;
+    border-radius: 20px;
+    padding-left: 5%;
+    padding-right: 5%;
+    box-shadow: 2px 2px 2px rgb(78, 78, 241);
+    margin-top: 180px;
+    margin-left: 10%; 
+    text-decoration: none;
+    color:  rgba(31, 34, 247,0.8);
+}
+
+#Client{
+    background-color: aquamarine;
+    position: absolute;
+    font-size: 30px;
+    border-radius: 20px;
+    margin-top: 280px;
+    margin-left: 10%;
+    box-shadow: 2px 2px 6px rgb(31, 34, 247);
+
+}
+
+#Voiture{
+    background-color: aquamarine;
+    position: absolute;
+    font-size: 30px;
+    border-radius: 20px;
+    margin-top: 340px;
+    margin-left: 10%;
+    box-shadow: 2px 2px 6px rgb(31, 34, 247);
+}
+
+#Reservation{
+    background-color: aquamarine;
+    position: absolute;
+    font-size: 30px;
+    border-radius: 20px;
+    margin-top: 400px;
+    margin-left: 10%;
+    box-shadow: 2px 2px 6px rgb(31, 34, 247);
+
+}
+
+.Boite1, .Boite2{
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+}
+
+.Boite1{
+   background-color: rgb(31, 34, 247);  
+   top: 0px;
+   right: 0px;  
+   border-bottom-left-radius: 100%;
+}
+
+
+.Boite2{
+    background-color: rgb(49, 163, 240); 
+    bottom: 0px;
+    right: 0px;   
+    border-top-left-radius: 100%;
+ }
+
+ h1{
+    position: absolute;
+    font-size: 60px;
+    margin-left: 37%;
+    margin-top: 4%;
+    color:  rgba(31, 34, 247,0.8);
+ }
+
+ 
+ h2{
+    position: absolute;
+    font-size: 30px;
+    margin-left: 30%;
+    margin-top: 24%;
+    color:  rgba(0, 0, 3, 0.8);
+ }
+
+.contenaire{
+    position: relative;
+    width: 256px;
+    height: 256px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenaire span{
+    position: absolute;
+    top: 340px;
+    left: 580px;
+    width: 32px;
+    height: 6px;
+    background-color: rgb(12, 6, 6);
+    border-radius: 8px;
+    transform-origin: 90px;
+    transform: scale(2,2) rotate(calc(var(--i)*(360deg/30)));
+    animation: animateBlink 3s linear infinite;
+    animation-delay: calc(var(--i)*(3s/30));
+}
+
+@keyframes animateBlink{
+    0%{
+        background: #0ef;
+    }
+    25%{
+        background: white;
+    }
+}
+
+#image2{
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    margin-left: 40%;
+    margin-top: 15.9%;
+}
+

@@ -1,0 +1,105 @@
+/*client*/
+.Bouton1{
+    position: absolute;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 210px;
+    margin-top: 7%;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(31, 34, 247); ;
+    box-shadow: 0 0 3px black;
+}
+
+.field{
+    margin-right: 33%;
+    margin-left: 31%;
+    margin-top: 15%;
+    position: absolute;
+    padding: 30px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgb(8, 8, 8);
+    background-color: rgb(245, 250, 250);
+    color: rgb(12, 11, 11);
+}
+
+#Nom-client{
+    position: absolute;
+    margin-left: 68px;
+}
+
+h1{
+    position: absolute;
+    margin-left: 10%;
+    margin-top: 4%;
+    background-color: aqua;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 60px;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+
+h2{
+    position: absolute;
+    margin-left: 15%;
+    margin-top: -19%;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+
+.label{
+    font-weight: bolder;
+    position: relative;
+    font-size: 20px;
+}
+
+.Boite1, .Boite2,.Boite3, .Boite4 {
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+}
+
+.Boite1{
+    background-color: rgb(31, 34, 247);  
+   top: 0px;
+   left: 0px;  
+   border-bottom-right-radius: 100%;
+}
+
+
+.Boite2{
+    background-color: rgb(31, 34, 247);  
+    top: 0px;
+    right: 0px;   
+    border-bottom-left-radius: 100%;
+ }
+
+.Boite3{
+    background-color: rgb(31, 34, 247);  
+    bottom: 0px;
+    left: 0px;  
+    border-top-right-radius: 100%;
+ }
+ 
+ 
+ .Boite4{
+    background-color: rgb(31, 34, 247);  
+     bottom: 0px;
+     right: 0px;   
+     border-top-left-radius: 100%;
+  }
+ 
+body{
+    background-color: aqua;
+}
+
+input{
+    font-size: 15px;
+}

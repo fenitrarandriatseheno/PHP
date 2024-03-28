@@ -1,0 +1,106 @@
+/* Affichage-php*/
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin-top: 15%;
+    margin-left: 24%;
+    position: absolute;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-radius: 5px;
+    position: relative;
+}
+
+thead,#ligne{
+    color: white;
+    background-color: rgb(104, 179, 250);
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+tr{
+    background-color: white;
+}
+
+.recherche{
+    position: absolute;
+    margin-left: 30%;
+    margin-top: -5%;
+    font-size: 30px;
+    font-weight: bold;
+    color: black;
+}
+
+
+.recherche1{
+    position: absolute;
+    margin-top: 2%;
+    margin-left: 10%;
+    padding-left: 8px;
+    padding-right: 3px;
+    font-size: 20px;
+    border-radius: 2px;
+    color: black;
+}
+
+.image4{
+    margin-left: 6%;
+    margin-top: -2%;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
+
+.image3{
+    margin-left: 3.5%;
+    margin-top: -13.1%;
+    position: absolute;
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+}
+
+
+#searchInput{
+    position: absolute;
+    margin-left: 10px;
+    margin-top: 1%;
+    padding-right: 80%;
+    padding-top: 6%;
+    border-radius: 5px;
+    padding-left: 5%;
+    font-size: 15px;
+    background-color: white;
+}
+
+body{
+    background-color: white;
+}
+
+h1{
+    font-size: 40px;
+    box-shadow: 3px 3px 15px black;
+    padding-left: 21%;
+    padding-right: 21%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 0.3%;
+    margin-top: -14%;
+    background-color: rgb(104, 179, 250);
+    position: absolute;
+    color: white;
+}
+
+h2{
+    font-size: 40px;
+    position: absolute;
+    margin-left: 4%;
+    margin-top: 6%;
+    font-style: oblique;
+}

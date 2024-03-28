@@ -1,0 +1,256 @@
+h4{
+    font-size: 30px;
+    text-align: center;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px black;
+    margin-left: 430px;
+    margin-right: 430px;
+    background-color: white;
+}
+
+.select1{
+    font-size: 20px;
+    margin-left: 4%;
+    padding-right: 2.5%;
+}
+
+.select4{
+    padding-right: 3%;
+    font-size: 20px;
+    margin-left: -3.7%;
+    position: absolute;
+}
+
+#datetime{
+    padding-top: 1%;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 33%;
+    padding-right: 140px;
+}
+
+#date{
+    margin-left: 33%;
+    padding-top: 1%;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 140px;
+}
+
+#prix{
+    margin-left: 33%;
+    padding-top: 0.5%;
+    padding-right: 6%;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#payement{
+    margin-left: 33%;
+    padding-top: 0.5%;
+    padding-right: -1%;
+    font-size: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#Montant{
+    margin-left: 33%;
+    padding-top: 1%;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 140px;
+}
+
+#Reste_payer{
+    margin-left: 33%;
+    padding-top: 1%;
+    font-size: 20px;
+    padding-right: 140px;
+    font-weight: bold;
+}
+
+.listage{
+    font-size: 30px;
+    margin-top: 10%;
+    margin-left: -43%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px black;
+    font-weight: bold;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(31, 34, 247);
+}
+
+.Affichage{
+    position: absolute;
+    font-size: 30px;
+    margin-top: 3%;
+    margin-left: 23%;
+    border-radius: 10px;
+    margin-bottom: 3%;
+    box-shadow: 3px 3px 15px black;
+    font-weight: bold;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(31, 34, 247);
+}
+
+.recu{
+    position: absolute;
+    font-size: 30px;
+    margin-top: 3%;
+    margin-left: 56%;
+    border-radius: 10px;
+    margin-bottom: 10%;
+    box-shadow: 3px 3px 15px black;
+    font-weight: bold;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(31, 34, 247);
+}
+
+fieldset{
+    margin-left: 160px;
+    margin-top: -10%;
+    margin-right: 16%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px black;
+    padding: 2%;
+    background-color: rgb(31, 34, 247);
+    color: white;
+}
+
+.Retour{
+    font-size: 30px;
+    margin-top: 8%;
+    margin-left: 16.3%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px black;
+    font-weight: bold;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(31, 34, 247);
+}
+
+#choix_place{
+    position: absolute;
+    font-size: 30px;
+    margin-top: -60px;
+    margin-left: 55%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px black;
+}
+
+#Identifiant{
+    padding-top: 1%;
+    margin-left: 6%;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 140px;
+}
+
+.IdClient{
+    padding-top: 1%;
+    margin-left: 7.8%;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 140px;
+}
+
+.place{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.reste{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.prix{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.date-voyage{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+}
+
+#place{
+    padding-top: 1%;
+    margin-left: 33%;
+    font-size: 20px;
+    padding-right: 138px;
+    font-weight: bold;
+}
+
+#Ajout{
+    font-size: 30px;
+    margin-top: 8%;
+    margin-left: 31%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px black;
+    font-weight: bold;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(31, 34, 247);
+}
+
+#Idreserv{
+    margin-left: 30px;
+    font-size: 20px;
+    padding-right: 12%;
+    padding-top: 1%;
+    font-weight: bold;
+}
+
+.Idreserve{
+    font-weight: bold;
+}
+
+.Idvoiture{
+    font-weight: bold;
+}
+
+
+.Montant{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.payement{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.date_voyage{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.date-reserv{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+}
+
+
+.Idreserve, .IdClient,.Idvoiture{
+    font-size: 30px;
+    margin-left: 1px;
+}
+
+
+body{
+    background-color: aqua;
+    padding-bottom: 8%;
+}

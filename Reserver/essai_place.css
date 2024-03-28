@@ -1,0 +1,370 @@
+.field1{
+    padding-right: 13%;
+    position: absolute;
+    padding-bottom: 39.9%;
+    margin-left: -1%;
+    margin-top: -1%;
+    position: fixed;
+    background-image: url(../img/Acceuil.png);
+    background-repeat: no-repeat;
+    background-color: white;
+    box-shadow: 3px 3px 15px black;
+}
+
+#image2{
+    position: absolute;
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+    margin-left: 4%;
+    margin-top: -4%;
+}
+
+#image3{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-left: 13%;
+    margin-top: 170px;
+}
+
+#image4{
+    position: absolute;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    margin-left: 13%;
+    margin-top: 370px;
+}
+
+#Acceuil{
+    background-color: aquamarine;
+    position: absolute;
+    font-size: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 6px rgb(31, 34, 247);
+    margin-top: 100px;
+    margin-left: 10%; 
+    text-decoration: none;
+}
+
+#Client{
+    background-color: aquamarine;
+    position: absolute;
+    font-size: 30px;
+    border-radius: 20px;
+    margin-top: 270px;
+    margin-left: 10%;
+    box-shadow: 2px 2px 6px rgb(31, 34, 247);
+
+}
+
+#Voiture{
+    background-color: aquamarine;
+    position: absolute;
+    font-size: 30px;
+    border-radius: 20px;
+    margin-top: 475px;
+    margin-left: 10%;
+    box-shadow: 2px 2px 6px rgb(31, 34, 247);
+}
+
+h4{
+    font-size: 40px;
+    box-shadow: 3px 3px 15px black;
+    padding-left: 37%;
+    padding-right: 40.1%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    margin-left: 190px;
+    margin-top: 0%;
+    background-color: white;
+}
+
+.select4{
+    font-size: 20px;
+    margin-left: 75%;
+    padding-right: 2.5%;
+    position: absolute;
+    margin-top: 2%;
+}
+
+.Idvoiture{
+    font-weight: bold;
+    margin-left: 15%;
+    font-size: 25px;
+    margin-top: 4.5%;
+    position: absolute;
+}
+
+.select1{
+    padding-right: 3%;
+    font-size: 20px;
+    margin-left: 33%;
+    position: absolute;
+    margin-top: 4.8%;
+}
+
+.IdClient{
+    padding-top: 1%;
+    margin-left: 58%;
+    font-size: 25px;
+    margin-top: 1%;
+    font-weight: bold;
+    padding-right: 140px;
+    position: absolute;
+}
+
+.place{
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: -5%;
+}
+
+#place{
+    margin-left: 33%;
+    font-size: 20px;
+    padding-right: 10px;
+    font-weight: bold;
+    position: absolute;
+    margin-top: -5%;
+}
+
+#choix_place{
+    position: absolute;
+    font-size: 20px;
+    margin-top: -104px;
+    margin-left: 58%;
+    box-shadow: 3px 3px 15px black;
+    font-weight: bold;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(31, 34, 247);
+    position: absolute;
+}
+
+#datetime{
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 33%;
+    padding-right: 10px;
+    margin-top: 1.5%;
+    position: absolute;
+}
+
+.date-reserv{
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 1.5%;
+}
+
+#date{
+    margin-left: 75%;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 10px;
+    margin-top: -1.5%;
+    position: absolute;
+}
+
+.date-voyage{
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 58%;
+    margin-top: -1.5%;
+}
+
+#prix{
+    margin-left: 75%;
+    padding-right: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    position: absolute;
+    margin-top: -5%;
+}
+
+#payement{
+    margin-left: 33%;
+    padding-right: 10px;
+    font-size: 20px;
+    margin-left: 33%;
+    font-weight: bold;
+    position: absolute;
+    margin-top: 1%;
+}
+
+.prix{
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 58%;
+    margin-top: -5%;
+}
+
+.payement{
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 1%;
+}
+
+#Montant{
+    margin-left: 33%;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 10px;
+    margin-top: 3%;
+    position: absolute;
+}
+
+#Reste_payer{
+    margin-left: 75%;
+    font-size: 20px;
+    padding-right: 10px;
+    font-weight: bold;
+    position: absolute;
+    margin-top: -2.5%;
+}
+
+.reste{
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 58%;
+    margin-top: -2.5%;
+}
+
+.Montant{
+    font-size: 25px;
+    font-weight: bold;
+    position: absolute;
+    margin-left: 15%;
+    margin-top: 3%;
+}
+
+.Affichage{
+    position: absolute;
+    font-size: 30px;
+    margin-top: 5%;
+    margin-left: 43%;
+    border-radius: 10px;
+    margin-bottom: 0%;
+    box-shadow: 3px 3px 15px black;
+    font-weight: bold;
+    border-radius: 4px;
+    color: white;
+    position: absolute;
+    background-color: rgb(31, 34, 247);
+}
+
+.recu{
+    font-size: 30px;
+    margin-top: 5%;
+    margin-left: 75%;
+    border-radius: 10px;
+    margin-bottom: 10%;
+    box-shadow: 3px 3px 15px black;
+    font-weight: bold;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(31, 34, 247);
+    position: absolute;
+}
+
+#Ajout{
+    font-size: 30px;
+    margin-top: 5%;
+    margin-left: 30.8%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px black;
+    font-weight: bold;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(31, 34, 247);
+    position: absolute;
+}
+
+body{
+    background-color: aqua;
+    padding-bottom: 8%;
+}
+
+/*
+.Retour{
+    font-size: 30px;
+    margin-top: 5%;
+    margin-left: 15%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px black;
+    font-weight: bold;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(31, 34, 247);
+    position: absolute;
+}
+
+.listage{
+    font-size: 30px;
+    margin-top: 10%;
+    margin-left: -43%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px black;
+    font-weight: bold;
+    border-radius: 4px;
+    color: white;
+    background-color: rgb(31, 34, 247);
+}
+
+
+fieldset{
+    margin-left: 162px;
+    margin-top: -10%;
+    margin-right: 16%;
+    border-radius: 10px;
+    box-shadow: 3px 3px 15px black;
+    padding: 2%;
+    background-color: rgb(31, 34, 247);
+    color: white;
+}
+
+
+
+#Identifiant{
+    padding-top: 1%;
+    margin-left: 6%;
+    font-size: 20px;
+    font-weight: bold;
+    padding-right: 140px;
+}
+
+#Idreserv{
+    margin-left: 30px;
+    font-size: 20px;
+    padding-right: 12%;
+    padding-top: 1%;
+    font-weight: bold;
+}
+
+.Idreserve{
+    font-weight: bold;
+}
+
+
+.date_voyage{
+    font-size: 30px;
+    font-weight: bold;
+    position: absolute;
+}
+
+.Idreserve, .IdClient,.Idvoiture{
+    font-size: 30px;
+    margin-left: 1px;
+}
+*/

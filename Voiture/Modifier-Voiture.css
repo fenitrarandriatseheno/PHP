@@ -1,0 +1,152 @@
+h1{
+    position: absolute;
+    margin-left: 26%;
+    margin-top: 3.6%;
+    color: white;
+    font-size: 60px;
+}
+
+.field{
+    margin-right: 35%;
+    margin-left: 470px;
+    margin-top: 10%;
+    position: absolute;
+    padding-left: 55px;
+    padding-right: 230px;
+    padding-top: 50px;
+    padding-bottom: 200px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px black;
+    background-color: white;
+}
+
+body{
+    background-color: aqua;
+}
+
+.Bouton1{
+    position: absolute;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 120px;
+    border-radius: 4px;
+    box-shadow: 0 0 3px black;
+    margin-top: 32%;
+    color: white;
+    background-color: rgb(31, 34, 247); 
+}
+
+#Design{
+    position: absolute;
+    font-size: 15px;
+    margin-left: 45px;
+    padding-top: 1%;
+}
+
+#type-de-voiture{
+    position: absolute;
+    margin-left: 10px;
+    padding-top: 1%;
+}
+
+#Identifiant{
+    padding-top: 1%;
+    margin-left: 4px;
+    position: absolute;
+}
+
+.nombre-place{
+    position: absolute;
+    font-size: 19px;
+    font-weight: 100px;
+    padding-right: 10%;
+    margin-top: 5%;
+    margin-left: 223px;
+}
+
+.choix{
+    position: absolute;
+    font-size: 19px;
+    font-weight: 100px;
+    padding-right: 5%;
+    margin-left: 180px;
+}
+
+.choix1{
+    position: absolute;
+}
+
+.place{
+    position: absolute;
+    margin-left: 3px;
+    padding-top: 1%;
+    padding-right: 12%;
+}
+
+.Nombre_de_place{
+    position: absolute;
+    margin-top: 5%;
+
+}
+
+#frais{
+    position: absolute;
+    margin-left: 120px;
+    font-size: 15px;
+    padding-top: 1%;
+    margin-top: 10%;
+}
+
+.frais{
+    position: absolute;
+    margin-top: 10%;
+}
+
+input{
+    font-size: 15px;
+    margin-left: 2px;
+}
+
+label{
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: -10px;
+}
+
+
+.Boite1, .Boite2,.Boite3, .Boite4 {
+    border: 1px solid black;
+    width: 150px;
+    height: 150px;
+    position: fixed;
+}
+
+.Boite1{
+    background-color: rgb(31, 34, 247);  
+   top: 0px;
+   left: 0px;  
+   border-bottom-right-radius: 100%;
+}
+
+
+.Boite2{
+    background-color: rgb(31, 34, 247);  
+    top: 0px;
+    right: 0px;   
+    border-bottom-left-radius: 100%;
+ }
+
+.Boite3{
+    background-color: rgb(31, 34, 247);  
+    bottom: 0px;
+    left: 0px;  
+    border-top-right-radius: 100%;
+ }
+ 
+ 
+ .Boite4{
+    background-color: rgb(31, 34, 247);  
+     bottom: 0px;
+     right: 0px;   
+     border-top-left-radius: 100%;
+  }

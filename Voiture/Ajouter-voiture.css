@@ -1,0 +1,175 @@
+h1{
+    position: absolute;
+    margin-left: -450px;
+    margin-top: 10%;
+    color: rgb(10, 8, 8);
+    font-size: 60px;
+}
+
+.field{
+    margin-right: 46%;
+    margin-left: -440px;
+    margin-top: 45%;
+    position: absolute;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 90px;
+    padding-right: 50px;
+    border-radius: 15px;
+    box-shadow: 3px 3px 15px black;
+    background-color: white;
+}
+
+
+.field1{
+    padding-right: 20%;
+    position: absolute;
+    padding-bottom: 37.9%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    margin-left: -65%;
+    margin-top: -0.7%;
+    position: fixed;
+    background-image: url(img/Acceuil.png);
+    background-repeat: no-repeat;
+    background-color: white;
+}
+
+#Acceuil{
+    background-color: aquamarine;
+    position: absolute;
+    font-size: 30px;
+    border-radius: 20px;
+    box-shadow: 2px 2px 6px rgb(31, 34, 247);
+    margin-top: 200px;
+    margin-left: 10%; 
+    text-decoration: none;
+}
+
+#Client{
+    background-color: aquamarine;
+    position: absolute;
+    font-size: 30px;
+    border-radius: 20px;
+    margin-top: 270px;
+    margin-left: 10%;
+    box-shadow: 2px 2px 6px rgb(31, 34, 247);
+
+}
+
+#Voiture{
+    background-color: aquamarine;
+    position: absolute;
+    font-size: 30px;
+    border-radius: 20px;
+    margin-top: 340px;
+    margin-left: 10%;
+    box-shadow: 2px 2px 6px rgb(31, 34, 247);
+}
+
+
+
+#Reservation{
+    background-color: aquamarine;
+    position: absolute;
+    font-size: 30px;
+    border-radius: 20px;
+    margin-top: 400px;
+    margin-left: 10%;
+    box-shadow: 2px 2px 6px rgb(31, 34, 247);
+
+}
+
+body{
+    background-color: aqua;
+}
+
+.image1{
+    margin-left: 71%;
+    margin-top: 12%;
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+
+.Bouton1{
+    position: absolute;
+    font-size: 13.5px;
+    font-weight: bold;
+    margin-left: 110px;
+    border-radius: 4px;
+    box-shadow: 0 0 3px rgb(199, 197, 197);
+    margin-top: 9%;
+    background-color: aqua;
+    color: white;
+    font-size: 25px;
+}
+
+.Bouton2{
+    position: absolute;
+    font-size: 18px;
+    margin-left: 280px;
+    border-radius: 4px;
+    box-shadow: 0 0 3px rgb(199, 197, 197);
+    margin-top: -1%;
+    background-color: aqua;
+    color: white;
+}
+
+#Design{
+    position: absolute;
+    margin-left: 38px;
+}
+
+
+#Nom-client{
+    position: absolute;
+    margin-left: 53px;
+}
+
+#type-de-voiture{
+    position: absolute;
+    margin-left: -16px;
+}
+
+#nom-voiture{
+    position: absolute;
+    margin-left: 94px;
+}
+
+#frais{
+    position: absolute;
+    margin-left: 50px;
+}
+
+body{
+    position: relative;
+    margin-left: 65%;
+    margin-right: 12%;
+    padding-bottom: 350px;
+}
+
+.voiture{
+    margin-top: 200px;
+    position: absolute;
+    padding: 3%;
+    border-radius: 50%;
+    margin-left: 45%;
+}
+
+label{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+input{
+    font-size: 19px;
+    font-weight: 100px;
+}
+
+.nombre-place{
+    font-size: 19px;
+    font-weight: 100px;
+}
